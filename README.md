@@ -21,4 +21,5 @@ This is a project that's done by my team, classmate and me
 ## 5. Updating
 I am so happy that I found another updated data of the top songs from Spotify but with 1000 rows. So that I can check my last model. The file is named LargerDataAnalysis-SLRvsMLR. 
 Link to data: https://www.kaggle.com/leonardopena/top-50-spotify-songs-by-each-country
+Ps: This project is continuing by myself only.
 
