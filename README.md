@@ -16,3 +16,7 @@ We found out the featers that affect the ranking of songs.
 Find out the effective way to clean the data get and  better model. 
 ## 5. Other information
 This is a project that's done by my team, classmate and me
+
+
+## Updating
+I am so happy that I found another updated data of the top songs from Spotify but with 1000 rows. So that I can check my last model. The file is named LargerDataAnalysis. 
